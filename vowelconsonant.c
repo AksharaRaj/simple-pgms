@@ -15,4 +15,5 @@ int main(void) {
 	}
 	if(flag==0)
 		printf("Consonant");
+		return 0;
 }
